@@ -28,6 +28,7 @@ Main.java // Entry point of the application Questions.java // Model class repres
 git clone https://github.com/your-username/java-quiz-app.git
 cd java-quiz-app
 
+
 ### 2. Compile the Java file
 
 javac Main.java QuestionService.java Questions.java
@@ -51,6 +52,8 @@ Correct!
 
 Your score is: 4
 
+---
+
 📚 Concepts Used
 
 -> Object-Oriented Programming (OOP)
@@ -58,6 +61,8 @@ Your score is: 4
 -> User input with Scanner
 -> Conditional logic (switch case)
 -> Encapsulation via private variables and getters/setters
+
+---
 
 🧠 What I Learned
  
