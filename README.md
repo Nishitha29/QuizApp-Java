@@ -54,22 +54,25 @@ Your score is: 4
 
 ---
 
-📚 Concepts Used
+---
 
--> Object-Oriented Programming (OOP)
--> Arrays and loops
--> User input with Scanner
--> Conditional logic (switch case)
--> Encapsulation via private variables and getters/setters
+## 📚 Concepts Used
+
+- Object-Oriented Programming (OOP)
+- Arrays and loops  
+- User input with `Scanner`  
+- Conditional logic (`switch` case)  
+- Encapsulation via private variables and getters/setters  
 
 ---
 
-🧠 What I Learned
- 
- -> Structuring a Java project using classes and services
- -> Capturing and validating user input
--> Providing dynamic feedback based on logic
--> Writing clean and readable console-based programs
+## 🧠 What I Learned
+
+- Structuring a Java project using classes and services  
+- Capturing and validating user input  
+- Providing dynamic feedback based on logic  
+- Writing clean and readable console-based programs  
+
 
 
 
