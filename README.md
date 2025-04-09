@@ -54,8 +54,6 @@ Your score is: 4
 
 ---
 
----
-
 ## 📚 Concepts Used
 
 - Object-Oriented Programming (OOP)
