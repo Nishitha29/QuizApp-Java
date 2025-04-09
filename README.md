@@ -56,23 +56,21 @@ Your score is: 4
 
 ## 📚 Concepts Used
 
-- Object-Oriented Programming (OOP)
+Main Java concepts applied in this project:
+
+- **Object-Oriented Programming (OOP)**
 - Arrays and loops  
 - User input with `Scanner`  
 - Conditional logic (`switch` case)  
-- Encapsulation via private variables and getters/setters  
+- Encapsulation using private variables and getter/setter methods
 
 ---
 
 ## 🧠 What I Learned
 
+Key takeaways from building this project:
+
 - Structuring a Java project using classes and services  
-- Capturing and validating user input  
-- Providing dynamic feedback based on logic  
-- Writing clean and readable console-based programs  
-
-
-
-
-
-
+- Capturing and validating user input effectively  
+- Providing dynamic feedback to users in real time  
+- Writing clean, readable, and maintainable Java code  
