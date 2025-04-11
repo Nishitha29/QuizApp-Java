@@ -25,7 +25,7 @@ Main.java // Entry point of the application Questions.java // Model class repres
 
 ### 1. Clone this repo or download the files
 ```bash
-git clone https://github.com/your-username/java-quiz-app.git
+git clone https://github.com/Nishitha29/QuizApp-Java.git
 cd java-quiz-app
 
 
